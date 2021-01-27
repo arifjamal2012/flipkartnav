@@ -1,0 +1,24 @@
+.logintool__in {
+	display: flex;
+	align-items: center;
+	padding: 0px 7px;
+	width: 200px;
+}
+.logintool__in > .MuiSvgIcon-root {
+	margin-right: 15px;
+	color: #2874f0;
+	font-size: 18px;
+}
+.logintool > hr {
+	margin-left: -10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 108.5%;
+	height: 0.5px;
+	background-color: rgba(233, 233, 233);
+	border: none;
+}
+.logintool__in:hover {
+	background-color: rgba(245, 243, 243);
+	cursor: pointer;
+}
